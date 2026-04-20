@@ -1,8 +1,8 @@
 # Git, GitHub & Personal Websites
 
-Guest lecture materials for **GIS Practicum** · April 15, 2026 · CSA 303 · 4:10–5:25 PM
+Guest lecture materials for **GIS Practicum** · April 15, 2026 · CSA 303 · 4:10–5:25 PM and April 20, 2026 · CSA 303 · 4:10–5:25 PM
 
-**Instructor:** Yifan (Rayford) Yang — PhD Student, GIScience & GeoAI, Texas A&M University
+**Instructor:** Yifan Yang — PhD Student, GIScience & GeoAI, Texas A&M University
 
 ---
 
